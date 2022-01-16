@@ -57,7 +57,7 @@
     </section>
 <!---End Education Section----->
 <!-- ======= Clients Section ======= -->
-<section id="clients" class="clients">
+ <!--<section id="clients" class="clients">
   <div class="container">
           <div class="community-title text-center">
             <h3>Community</h3>
