@@ -8,7 +8,7 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <h3 class="resume-title">Research</h3>
+            <h3 class="resume-title">Research</h3> <br> 
             <div class="resume-item">
               <h4>IYCC</h4>
               <h5>2023</h5>
@@ -34,7 +34,7 @@
            
       </div>
           <div class="col-lg-6">
-            <h3 class="resume-title">Academic</h3>
+            <h3 class="resume-title">Academic</h3> <br> 
             <div class="resume-item">
               <h4>Undergraduate</h4>
               <h5>2019 - 2023</h5>

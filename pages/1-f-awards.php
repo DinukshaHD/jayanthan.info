@@ -8,7 +8,12 @@
 
     <div class="row">
       <div class="col-lg-6">
-        <h3 class="resume-title">Winner</h3>
+        <h3 class="resume-title">Winner</h3> <br> 
+        <div class="resume-item">
+          <h4>Peace Direct Award</h4>
+          <h5>2020</h5>
+          <p>It highlight the inspiring work that grassroots groups are doing to establish peace and rebuild communities in conflict-affected areas around the world. </p>
+        </div>
         <div class="resume-item">
           <h4>Hackdev COVID 19 Innovation Challenge</h4>
           <h5>2020</h5>
@@ -30,6 +35,56 @@
           <p>ASU Watson Sustainability Solution Awards was awarded by  Arizona State University which is a regional for Intel International Science and Engineering Fair.</p>
         </div>
         <div class="resume-item">
+          <h4>Yarl Geek Challenge</h4>
+          <h5>2020 & 2023</h5>
+          <p>It is a premier technology competition intent to nurture IT skills, innovation and creativity by Yarl IT Hub.</p>
+        </div>
+        <div class="resume-item">
+          <h4>UWU EXPO</h4>
+          <h5>2022</h5>
+          <p>It is organized by Uva Wellassa University of Sri Lanka (UWU) with the aims of establishing strong university-industry relationship.</p>
+        </div>
+        <div class="resume-item">
+          <h4>GSEA</h4>
+          <h5>2023</h5>
+          <p>It is organized by Global Student Entrepreneur Awards EO Sri Lanka to recognize the acheivement as student student entrepreneur.</p>
+        </div>
+        <div class="resume-item">
+          <h4>IEEE INSL</h4>
+          <h5>2020 & 2022</h5>
+          <p>It is a annual startup competition to promote entrepreneurship and homegrown start-ups in Sri Lanka. </p>
+        </div>
+        <div class="resume-item">
+          <h4>Most Impactful Project </h4>
+          <h5>2022</h5>
+          <p>It is awarded for designing and building austistic bicyle under G17 ambassadorship university ambassador. </p> 
+        </div>
+        <div class="resume-item">
+          <h4>Most Innovative Project </h4>
+          <h5>2022</h5>
+          <p>It is awarded for designing and building autistic bicycle under G17 ambassadorship university ambassador. </p>
+        </div>
+        <div class="resume-item">
+          <h4>Most Outstanding Project (Goal 11)</h4>
+          <h5>2022</h5>
+          <p>It is awarded for designing and building autistic bicyle under G17 ambassadorship university ambassador. </p>
+        </div>
+        <div class="resume-item">
+          <h4>Startup Srilanka</h4>
+          <h5>2020</h5>
+          <p>It is organized by National Youth Services Council (NYSC) to develop Innovative and Entrepreneurship of Youth in Sri Lanka </p>
+        </div>
+        <div class="resume-item">
+          <h4>HackX</h4>
+          <h5>2020</h5>
+          <p>It is an inter university startup hackathon organized by Industrial Management Science Students’ Association and University of Kelaniya. </p>
+        </div>
+        <div class="resume-item">
+          <h4>Climathon Jaffna</h4>
+          <h5>2018</h5>
+          <p>It is an innovative ideathon to the stage young entrepreneurs, innovators, university students and general public who are keen about the tackling climate change. </p>
+        </div>
+        <div class="resume-item">
           <h4>National Science Research project competition</h4>
           <h5>2015</h5>
           <p>National Research Project Competition is conducted by National Science Foundation under the Ministry of Research and Technology.</p>
@@ -42,11 +97,41 @@
       </div>
 
       <div class="col-lg-6">
-        <h3 class="resume-title">Participation</h3>
+        <h3 class="resume-title">Participation</h3> <br> 
         <div class="resume-item">
-          <h4>Gen U Challenge</h4>
+          <h4>Island Plastic Challenge</h4>
+          <h5>2023</h5>
+          <p>Organized by Island Climate Initiative funded by the United States Development Agency’s (USAID) Clean Cities, Blue Ocean program.</p>
+        </div>
+        <div class="resume-item">
+          <h4>hatch.Connect </h4>
+          <h5>2023</h5>
+          <p>An accelerator program by hatch Works funded by UNDP Sri Lanka.</p>
+        </div>
+        <div class="resume-item">
+          <h4>Student Startup Competition</h4>
+          <h5>2022</h5>
+          <p>Organized by Ahead Operations with ICTA on Global Entrepreneurship Week 2022</p>
+        </div>
+        <div class="resume-item">
+          <h4>UWU Expo Investor Lounge</h4>
+          <h5>2022</h5>
+          <p>Organized by Uva Wellassa University of Sri Lanka(UWU) with the aims of establishing strong university-industry relationship.</p>
+        </div>
+        <div class="resume-item">
+          <h4>Social Enterprise Summit</h4>
+          <h5>2022</h5>
+          <p>Pitched social enterprise business idea by Social Enterprise Incubation Cell in Uva Wellassa University</p>
+        </div>
+        <div class="resume-item">
+          <h4>hatch x Nestle Open Innovation Challenge</h4>
+          <h5>2021</h5>
+          <p>Open innovation hackathon for products that are sustainable and which use local ingredients to meet local nutritional needs.</p>
+        </div>
+        <div class="resume-item">
+          <h4>GEN U Challenge</h4>
           <h5>2020</h5>
-          <p>Generation unlimited is a platform for young people to develop their ideas by providing resources and mentors. It is co-hosted by the United Nations Development Programme and United Nations International Children's Emergency Fund.</p>
+          <p>Platform for young people to develop their ideas by providing resources and mentors. It is co- hosted by the United Nations Development Program and United Nations International Children's Emergency Fund.</p>
         </div>
         <div class="resume-item">
           <h4>SLUG</h4>

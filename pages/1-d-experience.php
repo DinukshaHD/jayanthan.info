@@ -8,7 +8,7 @@
     
     <div class="row">
       <div class="col-lg-6">
-        <h3 class="resume-title">Professional Experience</h3>
+        <h3 class="resume-title">Professional Experience</h3> <br>
         <div class="resume-item">
           <h4>Founder & CEO</h4>
           <h5>2020 - Present</h5>
@@ -57,7 +57,7 @@
       </div>
 
       <div class="col-lg-6">
-        <h3 class="resume-title">Volunteering Experience</h3>
+        <h3 class="resume-title">Volunteering Experience</h3> <br>
         <div class="resume-item">
           <h4>Co-Director</h4>
           <h5>2021 - 2022</h5>
