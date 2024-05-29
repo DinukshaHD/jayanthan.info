@@ -29,8 +29,8 @@
             </svg>
             <i class='bx bxs-cube'></i>
           </div>
-          <h4>3D Modeling and Printing</h4>
-          <p>It is the process of developing a mathematical representation of any surface of an object in three dimensions via specialized computer aided softwares. The 3D model from design softwares ARE physically created using 3D printing devices.</p>
+          <h4>2D & 3D Modeling and 3D Printing</h4>
+          <p>It is the process of developing a mathematical representation of any surface of an object in two dimentions & three dimensions via specialized computer aided softwares. The 3D model from design softwares ARE physically created using 3D printing devices.</p>
         </div>
       </div>
 

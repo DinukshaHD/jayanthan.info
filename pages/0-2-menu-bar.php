@@ -8,6 +8,7 @@
         <li><a href="1-0-index.php#services">Services</a><div class="underline"></div></li>
         <li><a href="1-0-index.php#experience">Experience</a><div class="underline"></div></li>
         <li><a href="1-0-index.php#education">Education</a><div class="underline"></div></li>
+        <li><a href="1-0-index.php#certification">Certification</a><div class="underline"></div></li>
         <li><a href="1-0-index.php#awards">Awards</a><div class="underline"></div></li>
         <li><a href="1-0-index.php#social">Social</a><div class="underline"></div></li>
         <li><a href="1-0-index.php#portfolio">Portfolio</a><div class="underline"></div></li>

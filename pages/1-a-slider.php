@@ -2,7 +2,7 @@
 <section id="hero" class="d-flex flex-column justify-content-center">
   <div class="container" data-aos="zoom-in" data-aos-delay="100">
     <h1>Jayanthan Amalanathan</h1>
-    <p>I'm <span class="typed" data-typed-items="Community Worker, Social Innovator, Mechatronic Engineer, Researcher, Social Entrepreneur, Photographer"></span></p>
+    <p>I'm <span class="typed" data-typed-items="CEO, Founder, Community Worker, Social Innovator, Mechatronic Engineer, Researcher, Social Entrepreneur, Photographer"></span></p>
     <div class="social-links">
       <a href="https://www.linkedin.com/in/jayanthan-amalanathan/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       <a href="https://github.com/Jayanthan-Amalanathan" class="github"><i class="bx bxl-github"></i></a>
